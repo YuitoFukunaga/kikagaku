@@ -9,7 +9,7 @@ let space_rate = 0;//余白を入れる確率0~100%
 let start_x = 0;//x座標のスタート地点(キレイに収めるために使用)
 let start_y = 0;//start_xと同じ
 let draw_selection = ""//どの形で描くか
-var draw_log = [];//描画を記録しておく二次元配列
+var draw_log = [];//描画を記録しておく配列
 
 //設定を読み込むための関数
 const setup = () => {
