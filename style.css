@@ -1,0 +1,6 @@
+/*-----canvas css-----*/ 
+canvas{
+    border: solid blue 1px;
+    display: flex;
+    margin: 0 auto;
+}
